@@ -1,7 +1,7 @@
 # Hi there, I'm Pranjal Srivastava 👋
 
 - Always excited to learn & experience something new.
-- I'm passionate about [web/mobile/AI/other interests]!
+- I'm passionate about [web/ML/AI/other interests]!
 
 ---
 
